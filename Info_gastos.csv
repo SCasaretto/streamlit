@@ -1,0 +1,846 @@
+Fecha;Tipo;Cuenta;Concepto;Persona;Comentarios;Gasto;Categoría
+04/07/24;Ingreso;Efectivo $;Otro;Santi;Otro;5000;Ingreso
+04/07/24;Transferencia;Efectivo $;;Santi;Hacia Itaú;11000;Transferencia
+04/07/24;Gasto;Itaú;Amigos;Santi;Amigos;650;Programas
+04/07/24;Ingreso;Itaú;Sueldo;Santi;Sueldo;83355;Ingreso
+04/07/24;Transferencia;Itaú;;Santi;Desde Efectivo $;11000;Transferencia
+04/07/24;Gasto;Itaú;Comidas;Santi;Alimentación;1294,82;Alimentación y Limpieza
+04/07/24;Gasto;Santander;Salud;Santi;Salud;274,43;Salud y gastos médicos
+09/07/24;Gasto;Efectivo $;Combustible;Santi;Combustible;1000;Transporte, locomoción y vehículos
+09/07/24;Ingreso;Efectivo $;Otro;Santi;Otro;5000;Ingreso
+12/07/24;Gasto;Efectivo $;Casamiento;Santi;Casamiento;600;Z - No usar
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;361;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;309;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;309;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;255;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Otros;Cata;Parking;135;Otros
+27/07/24;Gasto;Itaú debito pesos;Otros;Cata;Otros;57;Otros
+27/07/24;Gasto;Itaú debito pesos;Otros;Cata;Otros;2137;Otros
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;250;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;57;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;279;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Gym;Cata;Box;2667;Deporte
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;250;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Salud;Cata;Manos;1100;Salud y gastos médicos
+27/07/24;Gasto;Itaú debito pesos;Programa;Cata;Cine;800;Programas
+27/07/24;Gasto;Itaú debito pesos;Otros;Cata;Otros;1800;Otros
+27/07/24;Gasto;Itaú debito pesos;Otros;Cata;Otros;1708;Otros
+27/07/24;Gasto;Itaú debito pesos;Salud;Cata;Smi;320;Salud y gastos médicos
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;220;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Programa;Cata;Peya;1160;Programas
+27/07/24;Gasto;Itaú debito pesos;Programa;Cata;Peya;500;Programas
+27/07/24;Gasto;Itaú debito pesos;Otros;Cata;Otros;1053;Otros
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;200;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Vestimenta;Cata;Medias;925;Vestimenta
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;217;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Otros;Cata;Otros;855;Otros
+27/07/24;Gasto;Itaú debito pesos;Otros;Cata;Parking;135;Otros
+27/07/24;Gasto;Itaú debito pesos;Otros;Cata;Otros;100;Otros
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;109;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;450;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;176;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;169;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;201;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Salud;Cata;Manos;550;Salud y gastos médicos
+27/07/24;Gasto;Itaú debito pesos;Programa;Cata;Asado boniss;962;Programas
+27/07/24;Gasto;Itaú debito pesos;Otros;Cata;Otros;2288;Otros
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;220;Alimentación y Limpieza
+27/07/24;Gasto;Itaú debito pesos;Comidas;Cata;Bizco;212;Alimentación y Limpieza
+28/07/24;Transferencia;Efectivo $;;Santi;Hacia Itaú;4000;Transferencia
+28/07/24;Transferencia;Inversiones $;;Santi;Desde Itaú;60000;Transferencia
+28/07/24;Transferencia;Itaú;;Santi;Hacia Inversiones $;60000;Transferencia
+28/07/24;Gasto;Itaú;Amigos;Santi;Amigos;615,94;Programas
+28/07/24;Gasto;Itaú;Amigos;Santi;Amigos;490;Programas
+28/07/24;Transferencia;Itaú;;Santi;Desde Efectivo $;4000;Transferencia
+28/07/24;Gasto;Itaú;Comidas;Santi;Alimentación;276,02;Alimentación y Limpieza
+28/07/24;Gasto;Itaú;Comidas;Santi;Alimentación;407,21;Alimentación y Limpieza
+28/07/24;Gasto;Itaú;Amigos;Santi;Amigos;550;Programas
+28/07/24;Gasto;Itaú;Amigos;Santi;Amigos;900;Programas
+28/07/24;Gasto;Santander;Salud;Santi;Salud;503,67;Salud y gastos médicos
+29/07/24;Gasto;Itaú;Equipamiento;Santi;Transporte;3926,56;Vivienda, mejoras y arreglos
+29/07/24;Gasto;Itaú;Transporte;Santi;Transporte;7050;Transporte, locomoción y vehículos
+01/08/24;Ingreso;Itaú;Sueldo;Santi;Sueldo;84797;Ingreso
+02/08/24;Gasto;Efectivo $;Vacaciones;Santi;Vacaciones;50;Vacaciones
+02/08/24;Gasto;Itaú;Combustible;Santi;Combustible;2239,5;Transporte, locomoción y vehículos
+14/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;333;Alimentación y Limpieza
+14/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;200;Alimentación y Limpieza
+14/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;315;Alimentación y Limpieza
+14/08/24;Gasto;Itaú debito pesos;Belleza;Cata;perla pli;808;Vestimenta
+14/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;188;Alimentación y Limpieza
+14/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;264;Alimentación y Limpieza
+14/08/24;Gasto;Itaú debito pesos;Auto;Cata;nafta;2327;Transporte, locomoción y vehículos
+14/08/24;Gasto;Itaú debito pesos;Vestimenta;Cata;bikini milo;2460;Vestimenta
+14/08/24;Gasto;Itaú debito pesos;Otros;Cata;parking shopping;135;Otros
+14/08/24;Gasto;Itaú debito pesos;Equipamiento;Cata;barrio judios -  vajilla;5847;Vivienda, mejoras y arreglos
+14/08/24;Gasto;Itaú debito pesos;Auto;Cata;seguro;4438;Transporte, locomoción y vehículos
+27/08/24;Gasto;Itaú debito pesos;Super casa;Cata;Super;829;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Super casa;Cata;Devoto portones;598;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Equipamiento;Cata;Aspiradora;1679;Vivienda, mejoras y arreglos
+27/08/24;Gasto;Itaú debito pesos;Equipamiento;Cata;Sodimac;2813;Vivienda, mejoras y arreglos
+27/08/24;Gasto;Itaú debito pesos;Equipamiento;Cata;Mesita luz;7500;Vivienda, mejoras y arreglos
+27/08/24;Gasto;Itaú debito pesos;Alquiler;Cata;Inmobiliaria;8250;Vivienda, mejoras y arreglos
+27/08/24;Gasto;Itaú debito pesos;Super casa;Cata;Geant;3928;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Super casa;Cata;Geant;3162;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Equipamiento;Cata;Cortinas;667;Vivienda, mejoras y arreglos
+27/08/24;Gasto;Itaú debito pesos;Equipamiento;Cata;Sodimac cansatos;578;Vivienda, mejoras y arreglos
+27/08/24;Gasto;Itaú debito pesos;Super casa;Cata;Geant;1758;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Programa;Cata;Programa;141;Programas
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;125;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Equipamiento;Cata;Cama;35400;Vivienda, mejoras y arreglos
+27/08/24;Gasto;Itaú debito pesos;Equipamiento;Cata;Sillon;19300;Vivienda, mejoras y arreglos
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;176;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;100;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Equipamiento;Cata;Perchas;1375;Vivienda, mejoras y arreglos
+27/08/24;Gasto;Itaú debito pesos;Salud;Cata;Manos;1100;Salud y gastos médicos
+27/08/24;Gasto;Itaú debito pesos;Equipamiento;Cata;Sillon;18000;Vivienda, mejoras y arreglos
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;295;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;272;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;645;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;188;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;256;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Otros;Cata;Aero parking;120;Otros
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Mc aero;150;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Salud;Cata;Cejas;590;Salud y gastos médicos
+27/08/24;Gasto;Itaú debito pesos;Salud;Cata;Manos;1100;Salud y gastos médicos
+27/08/24;Gasto;Itaú debito pesos;Casamiento;Cata;Fernet pia;1440;Z - No usar
+27/08/24;Gasto;Itaú debito pesos;Programa;Cata;Jardin cumple sardi;714;Programas
+27/08/24;Gasto;Itaú debito pesos;Salud;Cata;Pasti;741;Salud y gastos médicos
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;275;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;286;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;490;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Regalos;Cata;Regalo jime;2967;Regalos y Donaciones
+27/08/24;Gasto;Itaú debito pesos;Celular;Cata;Celular;541;Vivienda, mejoras y arreglos
+27/08/24;Gasto;Itaú debito pesos;Salud;Cata;Smi;346;Salud y gastos médicos
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;226;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;224;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Casamiento;Cata;Pizzas civil;8000;Z - No usar
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;373;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;400;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;120;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;307;Alimentación y Limpieza
+27/08/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;316;Alimentación y Limpieza
+31/08/24;Ingreso;Efectivo $;Otro;Santi;Otro;500;Ingreso
+31/08/24;Gasto;Efectivo $;Otros;Santi;Otros;50;Otros
+31/08/24;Gasto;Itaú;Amigos;Santi;Amigos;1000;Programas
+31/08/24;Gasto;Itaú;Super casa;Santi;Alimentación;1465,35;Alimentación y Limpieza
+31/08/24;Gasto;Itaú;Super casa;Santi;Alimentación;838,95;Alimentación y Limpieza
+31/08/24;Gasto;Itaú;Combustible;Santi;Combustible;2258,7;Transporte, locomoción y vehículos
+31/08/24;Gasto;Itaú;Equipamiento;Santi;Equipamiento;746,56;Vivienda, mejoras y arreglos
+31/08/24;Gasto;Itaú;Otros;Santi;Otros;211,48;Otros
+31/08/24;Gasto;Itaú;Alquiler;Santi;Alquiler;21083,02;Vivienda, mejoras y arreglos
+31/08/24;Gasto;Itaú;Vacaciones;Santi;Vacaciones;270,49;Vacaciones
+31/08/24;Transferencia;Itaú;;Santi;Hacia Santander;1000;Transferencia
+31/08/24;Transferencia;Santander;;Santi;Desde Itaú;1000;Transferencia
+31/08/24;Gasto;Santander;Equipamiento;Santi;Equipamiento;223,28;Vivienda, mejoras y arreglos
+31/08/24;Gasto;Santander;Salud;Santi;Salud;149,66;Salud y gastos médicos
+08/09/24;Gasto;Efectivo $;Regalos;Santi;Regalos;200;Regalos y Donaciones
+08/09/24;Gasto;Efectivo $;Equipamiento;Santi;Equipamiento;9000;Vivienda, mejoras y arreglos
+08/09/24;Gasto;Itaú;Equipamiento;Santi;Equipamiento;143,61;Vivienda, mejoras y arreglos
+08/09/24;Gasto;Itaú;Alquiler;Santi;Alquiler;33000;Vivienda, mejoras y arreglos
+08/09/24;Gasto;Itaú;Super casa;Santi;Alimentación;510,83;Alimentación y Limpieza
+08/09/24;Gasto;Itaú;Equipamiento;Santi;Equipamiento;479,87;Vivienda, mejoras y arreglos
+08/09/24;Gasto;Itaú;Equipamiento;Santi;Equipamiento;6028,44;Vivienda, mejoras y arreglos
+08/09/24;Gasto;Itaú;Amigos;Santi;Amigos;1236;Programas
+08/09/24;Gasto;Itaú;Amigos;Santi;Amigos;1730;Programas
+08/09/24;Ingreso;Itaú;Sueldo;Santi;Sueldo;62169;Ingreso
+08/09/24;Gasto;Santander;Salud;Santi;Salud;619,59;Salud y gastos médicos
+08/09/24;Gasto;Santander;Super casa;Santi;Limpieza;5468,05;Alimentación y Limpieza
+14/09/24;Gasto;Itaú debito pesos;Auto;Cata;nafta;2400;Transporte, locomoción y vehículos
+14/09/24;Gasto;Itaú debito pesos;Super casa;Cata;macro compra grande;8083;Alimentación y Limpieza
+14/09/24;Gasto;Itaú debito pesos;Auto;Cata;seguro;4437;Transporte, locomoción y vehículos
+25/09/24;Gasto;Itaú;Comidas;Santi;Alimentación;616;Alimentación y Limpieza
+25/09/24;Gasto;Itaú;Super casa;Santi;Alimentación;226,61;Alimentación y Limpieza
+25/09/24;Gasto;Itaú;Vacaciones;Santi;Vacaciones;1061,54;Vacaciones
+25/09/24;Gasto;Itaú;Amigos;Santi;Amigos;717;Programas
+25/09/24;Gasto;Itaú;Super casa;Santi;Alimentación;394;Alimentación y Limpieza
+25/09/24;Gasto;Itaú;Alquiler;Santi;Alquiler;3874;Vivienda, mejoras y arreglos
+25/09/24;Gasto;Itaú;Casamiento;Santi;Casamiento;20000;Z - No usar
+25/09/24;Gasto;Itaú;Super casa;Santi;Alimentación;134,52;Alimentación y Limpieza
+25/09/24;Gasto;Itaú;Equipamiento;Santi;Equipamiento;136,76;Vivienda, mejoras y arreglos
+25/09/24;Gasto;Itaú;Amigos;Santi;Equipamiento;236,19;Programas
+25/09/24;Gasto;Itaú;Equipamiento;Santi;Equipamiento;2696,06;Vivienda, mejoras y arreglos
+25/09/24;Gasto;Itaú;Super casa;Santi;Alimentación;871,28;Alimentación y Limpieza
+25/09/24;Gasto;Itaú;Amigos;Santi;Amigos;372;Programas
+27/09/24;Gasto;Itaú debito pesos;Vestimenta;Cata;Bombachas;399;Vestimenta
+27/09/24;Gasto;Itaú debito pesos;Vestimenta;Cata;Zara - zapatos;3790;Vestimenta
+27/09/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;349;Alimentación y Limpieza
+27/09/24;Gasto;Itaú debito pesos;Programa;Cata;Asado juani;460;Programas
+27/09/24;Gasto;Itaú debito pesos;Programa;Cata;Despe mfg;140;Programas
+27/09/24;Gasto;Itaú debito pesos;Programa;Cata;Despe mfg girls;310;Programas
+27/09/24;Gasto;Itaú debito pesos;Programa;Cata;Despe mfg-papitas;246;Programas
+27/09/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;185;Alimentación y Limpieza
+27/09/24;Gasto;Itaú debito pesos;Programa;Cata;Dos hermanas ccss;1840;Programas
+27/09/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;400;Alimentación y Limpieza
+27/09/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;96;Alimentación y Limpieza
+27/09/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;461;Alimentación y Limpieza
+27/09/24;Gasto;Itaú debito pesos;Casamiento;Cata;Peinado;7900;Z - No usar
+27/09/24;Gasto;Itaú debito pesos;Salud;Cata;Manos;1100;Salud y gastos médicos
+27/09/24;Gasto;Itaú debito pesos;Casamiento;Cata;Tocado;8400;Z - No usar
+27/09/24;Gasto;Itaú debito pesos;Otros;Cata;Otros;991;Otros
+27/09/24;Gasto;Itaú debito pesos;Programa;Cata;Mc after sirenitas;660;Programas
+27/09/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;230;Alimentación y Limpieza
+27/09/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;199;Alimentación y Limpieza
+27/09/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;195;Alimentación y Limpieza
+27/09/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;152;Alimentación y Limpieza
+27/09/24;Gasto;Itaú debito pesos;Otros;Cata;Foto visa;390;Otros
+27/09/24;Gasto;Itaú debito pesos;Programa;Cata;Cena bankis en casa;3900;Programas
+27/09/24;Gasto;Itaú debito pesos;Otros;Cata;Tarjetas casamiento;251;Otros
+27/09/24;Gasto;Itaú debito pesos;Gym;Cata;Gym;5001;Deporte
+27/09/24;Gasto;Itaú debito pesos;Celular;Cata;Celular;540;Vivienda, mejoras y arreglos
+27/09/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;140;Alimentación y Limpieza
+27/09/24;Gasto;Itaú debito pesos;Salud;Cata;Salud;670;Salud y gastos médicos
+27/09/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;252;Alimentación y Limpieza
+27/09/24;Gasto;Itaú debito pesos;Super casa;Cata;Super;540;Alimentación y Limpieza
+27/09/24;Gasto;Itaú debito pesos;Super casa;Cata;Super;673;Alimentación y Limpieza
+27/09/24;Gasto;Itaú debito pesos;Luz;Cata;Ute;1724;Vivienda, mejoras y arreglos
+27/09/24;Gasto;Itaú debito pesos;Internet;Cata;Antel;661;Vivienda, mejoras y arreglos
+27/09/24;Gasto;Itaú debito pesos;Equipamiento;Cata;Casa;873;Vivienda, mejoras y arreglos
+30/09/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;150;Alimentación y Limpieza
+30/09/24;Gasto;Itaú debito pesos;Casamiento;Cata;Separacion  bienes;8473;Z - No usar
+30/09/24;Gasto;Itaú debito pesos;Salud;Cata;Manos;1100;Salud y gastos médicos
+30/09/24;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;453;Alimentación y Limpieza
+30/09/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;332;Alimentación y Limpieza
+30/09/24;Gasto;Itaú debito pesos;Auto;Cata;parking pta carretas;180;Transporte, locomoción y vehículos
+30/09/24;Gasto;Itaú debito pesos;Vestimenta;Cata;caravanas isadora;500;Vestimenta
+30/09/24;Gasto;Itaú debito pesos;Equipamiento;Cata;jabonera bano;338;Vivienda, mejoras y arreglos
+01/10/24;Gasto;Efectivo $;Regalos;Santi;Regalos;200;Regalos y Donaciones
+01/10/24;Ingreso;Itaú;Sueldo;Santi;Sueldo;84797;Ingreso
+01/10/24;Transferencia;Itaú;;Santi;Desde Santander;1235;Transferencia
+01/10/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;174;Alimentación y Limpieza
+01/10/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;59;Alimentación y Limpieza
+01/10/24;Gasto;Santander;Banco;Santi;Banco;80,58;Banco
+01/10/24;Gasto;Santander;Casamiento;Santi;Casamiento;63440;Z - No usar
+01/10/24;Transferencia;Santander;;Santi;Hacia Itaú;1235;Transferencia
+03/10/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;46;Alimentación y Limpieza
+04/10/24;Gasto;Itaú debito pesos;Celular;Cata;Celular;540;Vivienda, mejoras y arreglos
+04/10/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;35;Alimentación y Limpieza
+04/10/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;308;Alimentación y Limpieza
+04/10/24;Gasto;Itaú debito pesos;Internet;Cata;Antel;1022;Vivienda, mejoras y arreglos
+07/10/24;Gasto;Itaú debito pesos;Salud;Cata;Manos-pies;2200;Salud y gastos médicos
+07/10/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;322;Alimentación y Limpieza
+07/10/24;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;1022;Alimentación y Limpieza
+07/10/24;Gasto;Itaú debito pesos;Casamiento;Cata;Casamiento;1190;Z - No usar
+08/10/24;Ingreso;Santander;Otro;Santi;Otro - ingreso de cata;185000;Ingreso
+09/10/24;Ingreso;Itaú;Otro;Santi;Otro - ingreso de cata;73250;Ingreso
+09/10/24;Ingreso;Itaú;Otro;Santi;Otro;3200;Ingreso
+09/10/24;Gasto;Itaú;Combustible;Santi;Combustible;2094;Transporte, locomoción y vehículos
+09/10/24;Gasto;Itaú;Alquiler;Santi;Alquiler;7680;Vivienda, mejoras y arreglos
+09/10/24;Gasto;Itaú;Casamiento;Santi;Casamiento;92000;Z - No usar
+09/10/24;Gasto;Itaú;Amigos;Santi;Amigos;2433;Programas
+09/10/24;Gasto;Itaú;Casamiento;Santi;Casamiento;162462;Z - No usar
+09/10/24;Gasto;Itaú;Casamiento;Santi;Casamiento;22500;Z - No usar
+09/10/24;Gasto;Itaú;Amigos;Santi;Amigos;721;Programas
+09/10/24;Gasto;Itaú;Casamiento;Santi;Casamiento;2610,49;Z - No usar
+09/10/24;Gasto;Itaú;Casamiento;Santi;Casamiento;5400;Z - No usar
+09/10/24;Gasto;Itaú;Alquiler;Santi;Alquiler;33000;Vivienda, mejoras y arreglos
+09/10/24;Gasto;Itaú;Super casa;Santi;Alimentación;590,48;Alimentación y Limpieza
+09/10/24;Gasto;Itaú;Otros;Santi;Otros;2200;Otros
+09/10/24;Gasto;Itaú;Combustible;Santi;Combustible;2254,1;Transporte, locomoción y vehículos
+09/10/24;Gasto;Santander;Casamiento;Santi;Casamiento;556,38;Z - No usar
+09/10/24;Gasto;Santander;Casamiento;Santi;Casamiento;794,51;Z - No usar
+09/10/24;Gasto;Santander;Casamiento;Santi;Casamiento;2630,69;Z - No usar
+09/10/24;Gasto;Santander;Casamiento;Santi;Casamiento;40000;Z - No usar
+09/10/24;Gasto;Santander;Casamiento;Santi;Casamiento;21775;Z - No usar
+09/10/24;Gasto;Santander;Banco;Santi;Banco;80,29;Banco
+09/10/24;Gasto;Santander;Banco;Santi;Banco;80,29;Banco
+09/10/24;Gasto;Santander;Casamiento;Santi;Casamiento;230105;Z - No usar
+09/10/24;Gasto;Santander;Casamiento;Santi;Casamiento;64130;Z - No usar
+09/10/24;Gasto;Santander;Casamiento;Santi;Casamiento;10000;Z - No usar
+09/10/24;Gasto;Santander;Casamiento;Santi;Casamiento;466,22;Z - No usar
+09/10/24;Gasto;Santander;Salud;Santi;Salud;823,28;Salud y gastos médicos
+09/10/24;Gasto;Santander;Salud;Santi;Salud;619,64;Salud y gastos médicos
+09/10/24;Gasto;Santander;Casamiento;Santi;Casamiento;10080;Z - No usar
+09/10/24;Gasto;Santander;Otros;Santi;Otros;500;Otros
+10/10/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;350;Alimentación y Limpieza
+10/10/24;Gasto;Itaú debito pesos;Programa;Cata;pedidos ya;900;Programas
+11/10/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;160;Alimentación y Limpieza
+11/10/24;Gasto;Itaú debito pesos;Luz;Cata;Ute;2037;Vivienda, mejoras y arreglos
+14/10/24;Gasto;Itaú debito pesos;Casamiento;Cata;bebidas civil macro;8955;Z - No usar
+14/10/24;Gasto;Itaú debito pesos;Auto;Cata;seguro auto;4437;Transporte, locomoción y vehículos
+14/10/24;Gasto;Itaú debito pesos;Vestimenta;Cata;pantalon blanco petra;3367;Vestimenta
+14/10/24;Gasto;Itaú debito pesos;Salud;Cata;Manos-pies;800;Salud y gastos médicos
+14/10/24;Gasto;Itaú debito pesos;Casamiento;Cata;tan bronceado;1190;Z - No usar
+14/10/24;Gasto;Itaú debito pesos;Gym;Cata;Boxeo;2997;Deporte
+14/10/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;445;Alimentación y Limpieza
+14/10/24;Gasto;Itaú debito pesos;Casamiento;Cata;alcohol;8538;Z - No usar
+14/10/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;93;Alimentación y Limpieza
+14/10/24;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;234;Alimentación y Limpieza
+14/10/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;128;Alimentación y Limpieza
+14/10/24;Gasto;Itaú debito pesos;Casamiento;Cata;vasos;1967;Z - No usar
+14/10/24;Gasto;Itaú debito pesos;Programa;Cata;asado mandi;640;Programas
+14/10/24;Gasto;Itaú debito pesos;Equipamiento;Cata;Sillcona air fyer;494;Vivienda, mejoras y arreglos
+23/10/24;Gasto;Itaú debito pesos;Regalos;Cata;regalo tefa y mati;566;Regalos y Donaciones
+23/10/24;Gasto;Itaú debito pesos;Casamiento;Cata;makeup;12990;Z - No usar
+23/10/24;Gasto;Itaú debito pesos;Regalos;Cata;Regalo angie;170;Regalos y Donaciones
+23/10/24;Gasto;Itaú debito pesos;Vestimenta;Cata;bikinis;1600;Vestimenta
+23/10/24;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;311;Alimentación y Limpieza
+23/10/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;348;Alimentación y Limpieza
+30/10/24;Ingreso;Efectivo $;Otro;Santi;Otro;10400;Ingreso
+04/11/24;Gasto;Itaú debito pesos;Celular;Cata;Celular;540;Vivienda, mejoras y arreglos
+04/11/24;Gasto;Itaú debito pesos;Luz;Cata;Ute;1884;Vivienda, mejoras y arreglos
+04/11/24;Gasto;Itaú debito pesos;Internet;Cata;Antel;772;Vivienda, mejoras y arreglos
+09/11/24;Gasto;Itaú;Super casa;Santi;Alimentación;191,1;Alimentación y Limpieza
+09/11/24;Gasto;Itaú;OCC;Santi;OCC;1850;Deporte
+09/11/24;Gasto;Itaú;Regalos;Santi;Regalos;3472,13;Regalos y Donaciones
+09/11/24;Gasto;Itaú;OCC;Santi;OCC;2800;Deporte
+09/11/24;Gasto;Itaú;Alquiler;Santi;Alquiler;8112;Vivienda, mejoras y arreglos
+09/11/24;Gasto;Itaú;Alquiler;Santi;Alquiler;33000;Vivienda, mejoras y arreglos
+09/11/24;Ingreso;Itaú;Sueldo;Santi;Sueldo;75591;Ingreso
+09/11/24;Gasto;Santander;Regalos;Santi;Regalos;1103,61;Regalos y Donaciones
+09/11/24;Gasto;Santander;Regalos;Santi;Regalos;1271,92;Regalos y Donaciones
+09/11/24;Gasto;Santander;Regalos;Santi;Regalos;2994,1;Regalos y Donaciones
+09/11/24;Ingreso;Santander;Otro;Santi;Otro;10800;Ingreso
+10/11/24;Gasto;Itaú debito pesos;Otros;Cata;mora por pago credito;1470;Otros
+10/11/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;219;Alimentación y Limpieza
+10/11/24;Gasto;Itaú debito pesos;Vestimenta;Cata;Consumismo cata;950;Vestimenta
+10/11/24;Gasto;Itaú debito pesos;Auto;Cata;seguro auto;4437;Transporte, locomoción y vehículos
+10/11/24;Gasto;Itaú debito pesos;Auto;Cata;Auto;580;Transporte, locomoción y vehículos
+15/11/24;Gasto;Efectivo $;Amigos;Santi;Amigos;1100;Programas
+19/11/24;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;2619;Alimentación y Limpieza
+19/11/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;200;Alimentación y Limpieza
+25/11/24;Gasto;Itaú debito pesos;Regalos;Cata;Regalos -  nani emi pame;6000;Regalos y Donaciones
+25/11/24;Gasto;Itaú debito pesos;Comidas;Cata;bizcohos;153;Alimentación y Limpieza
+25/11/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;143;Alimentación y Limpieza
+25/11/24;Gasto;Itaú debito pesos;Programa;Cata;anacapri corkys;1409;Programas
+25/11/24;Gasto;Itaú debito pesos;Programa;Cata;Programa;484;Programas
+25/11/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;150;Alimentación y Limpieza
+25/11/24;Gasto;Itaú debito pesos;Programa;Cata;asado despe erick - ccc;950;Programas
+25/11/24;Gasto;Itaú debito pesos;Casamiento;Cata;champagne;17380;Z - No usar
+25/11/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;320;Alimentación y Limpieza
+25/11/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;194;Alimentación y Limpieza
+25/11/24;Gasto;Itaú debito pesos;Super casa;Cata;sodimac - bolsas;1456;Alimentación y Limpieza
+25/11/24;Gasto;Itaú debito pesos;Programa;Cata;pde- casorio delfi;521;Programas
+11/12/24;Gasto;Santander;Regalos;Santi;Regalos;2344,9;Regalos y Donaciones
+12/12/24;Gasto;Santander;Regalos;Santi;Regalos;3985,55;Regalos y Donaciones
+11/12/24;Gasto;Itaú;Amigos;Santi;Amigos;6200;Programas
+11/12/24;Ingreso;Itaú;Otro;Santi;Otro;2000;Ingreso
+11/12/24;Gasto;Itaú;Gastos Comunes;Santi;Gastos Comunes;7703;Vivienda, mejoras y arreglos
+11/12/24;Gasto;Itaú;Amigos;Santi;Amigos;2290;Programas
+11/12/24;Gasto;Itaú;Amigos;Santi;Amigos;197;Programas
+11/12/24;Gasto;Itaú;Amigos;Santi;Amigos;541;Programas
+11/12/24;Gasto;Itaú;Amigos;Santi;Amigos;684;Programas
+11/12/24;Gasto;Itaú;Regalos;Santi;Regalos;2154,1;Regalos y Donaciones
+18/12/24;Transferencia;Itaú;;Santi;Desde Efectivo $;3000;Transferencia
+18/12/24;Transferencia;Efectivo $;;Santi;Hacia Itaú;3000;Transferencia
+11/12/24;Ingreso;Itaú;Otro;Santi;Otro;2180;Ingreso
+11/12/24;Gasto;Itaú;Combustible;Santi;Combustible;2300;Transporte, locomoción y vehículos
+11/12/24;Gasto;Itaú;Amigos;Santi;Amigos;689;Programas
+11/12/24;Gasto;Itaú;Amigos;Santi;Amigos;474;Programas
+11/12/24;Gasto;Itaú;Super casa;Santi;Super casa;90,33;Alimentación y Limpieza
+11/12/24;Gasto;Itaú;Auto;Santi;Auto;944,26;Transporte, locomoción y vehículos
+11/12/24;Gasto;Itaú;Amigos;Santi;Amigos;275,41;Programas
+11/12/24;Ingreso;Itaú;Otro;Santi;Otro;4149;Ingreso
+11/12/24;Ingreso;Itaú;Aguinaldo;Santi;Aguinaldo;42646,82;Ingreso
+11/12/24;Ingreso;Itaú;Otro;Santi;Otro;6400;Ingreso
+11/12/24;Gasto;Itaú;Amigos;Santi;Amigos;495,24;Programas
+11/12/24;Gasto;Itaú;Regalos;Santi;Regalos;300;Regalos y Donaciones
+11/12/24;Gasto;Itaú;Amigos;Santi;Amigos;231,56;Programas
+11/12/24;Gasto;Itaú;Alquiler;Santi;Alquiler;33000;Vivienda, mejoras y arreglos
+11/12/24;Ingreso;Itaú;Otro;Santi;Otro;600;Ingreso
+11/12/24;Gasto;Itaú;OCC;Santi;OCC;250;Deporte
+11/12/24;Gasto;Itaú;Equipamiento;Santi;Equipamiento;13200;Vivienda, mejoras y arreglos
+01/12/24;Gasto;Efectivo $;Super casa;Santi;Alimentación;1000;Alimentación y Limpieza
+01/12/24;Ingreso;Itaú;Sueldo;Santi;Sueldo;56693;Ingreso
+30/12/24;Ingreso;Itaú debito pesos;Licencia;Cata;Licencia;62407;Ingreso
+30/12/24;Ingreso;Itaú debito pesos;Sueldo;Cata;Sueldo;75824;Ingreso
+30/12/24;Gasto;Itaú debito pesos;Otros;Cata;libro romper el circulo;780;Otros
+30/12/24;Gasto;Itaú debito pesos;Comidas;Cata;papitas ruta pde;142;Alimentación y Limpieza
+17/12/24;Gasto;Itaú debito pesos;Salud;Cata;medico ojo;385;Salud y gastos médicos
+17/12/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;126;Alimentación y Limpieza
+17/12/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;175;Alimentación y Limpieza
+17/12/24;Gasto;Itaú debito pesos;Regalos;Cata;flores achu;1200;Regalos y Donaciones
+17/12/24;Gasto;Itaú debito pesos;Regalos;Cata;fotos bela y mamama;450;Regalos y Donaciones
+17/12/24;Gasto;Itaú debito pesos;Celular;Cata;Celular;536;Vivienda, mejoras y arreglos
+17/12/24;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;387;Alimentación y Limpieza
+17/12/24;Gasto;Itaú debito pesos;Regalos;Cata;Amigo invisible pigurina devoto home;1199;Regalos y Donaciones
+17/12/24;Gasto;Itaú debito pesos;Amigos;Cata;cena pizarro en casa con jime;633;Programas
+17/12/24;Gasto;Itaú debito pesos;Amigos;Cata;obra loli;553;Programas
+17/12/24;Gasto;Itaú debito pesos;Gym;Cata;box dic;2333;Deporte
+17/12/24;Gasto;Itaú debito pesos;Comidas;Cata;bizcochos ccc;300;Alimentación y Limpieza
+17/12/24;Gasto;Itaú debito pesos;Regalos;Cata;regalo clari manufactura;280;Regalos y Donaciones
+17/12/24;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;115;Alimentación y Limpieza
+17/12/24;Gasto;Itaú debito pesos;Otros;Cata;helado asado bankis;285;Otros
+17/12/24;Gasto;Itaú debito pesos;Regalos;Cata;regalo papanoel fili;974;Regalos y Donaciones
+17/12/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;193;Alimentación y Limpieza
+17/12/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;242;Alimentación y Limpieza
+17/12/24;Gasto;Itaú debito pesos;Luz;Cata;Luz dic;1620;Vivienda, mejoras y arreglos
+17/12/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;246;Alimentación y Limpieza
+17/12/24;Gasto;Itaú debito pesos;Celular;Cata;Celular;540;Vivienda, mejoras y arreglos
+17/12/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;104;Alimentación y Limpieza
+17/12/24;Gasto;Itaú debito pesos;Regalos;Cata;regalo piwa bikini;319;Regalos y Donaciones
+13/12/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;295;Alimentación y Limpieza
+13/12/24;Gasto;Itaú debito pesos;Equipamiento;Cata;canasto y organizadores makeup six or less;1057;Vivienda, mejoras y arreglos
+13/12/24;Ingreso;Itaú debito pesos;Otro;Cata;regalo bebes jime;2026;Ingreso
+13/12/24;Transferencia;Itaú debito pesos;Transferencias;Cata;giro a santander santi;7000;Transferencia
+13/12/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;452;Alimentación y Limpieza
+13/12/24;Gasto;Itaú debito pesos;Regalos;Cata;Amigo invisible pigurina;1367;Regalos y Donaciones
+13/12/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;406;Alimentación y Limpieza
+13/12/24;Gasto;Itaú debito pesos;Regalos;Cata;Canasta navidena los treboles;400;Regalos y Donaciones
+11/12/24;Ingreso;Itaú debito pesos;Aguinaldo;Cata;Aguinaldo;53564;Ingreso
+11/12/24;Gasto;Itaú debito pesos;Equipamiento;Cata;sodimac -palo de cortina y alargue;1,73;Vivienda, mejoras y arreglos
+11/12/24;Gasto;Itaú debito pesos;Regalos;Cata;Canasta navidena los treboles;3092;Regalos y Donaciones
+11/12/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;166;Alimentación y Limpieza
+11/12/24;Gasto;Itaú debito pesos;Belleza;Cata;manos y pies vale;1800;Vestimenta
+11/12/24;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;646;Alimentación y Limpieza
+09/12/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;126;Alimentación y Limpieza
+09/12/24;Ingreso;Itaú debito pesos;Otro;Cata;Aperol jime;560;Ingreso
+09/12/24;Gasto;Itaú debito pesos;Comidas;Cata;alfajor palmi;120;Alimentación y Limpieza
+09/12/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;244;Alimentación y Limpieza
+09/12/24;Gasto;Itaú debito pesos;Amigos;Cata;te en lo de tefa;354;Programas
+03/12/24;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;238;Alimentación y Limpieza
+03/12/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;355;Alimentación y Limpieza
+03/12/24;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;774;Alimentación y Limpieza
+03/12/24;Gasto;Itaú debito pesos;Gym;Cata;box nov;2334;Deporte
+03/12/24;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;181;Alimentación y Limpieza
+03/12/24;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;2557;Alimentación y Limpieza
+03/12/24;Gasto;Itaú debito pesos;Belleza;Cata;Limpieza de cutis;2380;Vestimenta
+03/12/24;Gasto;Efectivo $;Otros;Santi;;400;Otros
+31/01/25;Gasto;Itaú debito pesos;Otros;Cata;Otros;255;Otros
+31/01/25;Transferencia;Itaú debito pesos;;Cata;cambio dls a jime [hacia Itau Dolares];132141;Transferencia
+31/01/25;Gasto;Itaú debito pesos;Banco;Cata;Banco;54,95;Banco
+31/01/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;8960;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Combustible;Cata;Combustible;2250;Transporte, locomoción y vehículos
+31/01/25;Gasto;Itaú debito pesos;Programa;Cata;antonino restaruante;1587;Programas
+31/01/25;Gasto;Itaú debito pesos;Auto;Cata;telepeaje x4;600;Transporte, locomoción y vehículos
+31/01/25;Gasto;Itaú debito pesos;Combustible;Cata;Combustible;1660;Transporte, locomoción y vehículos
+31/01/25;Gasto;Itaú debito pesos;Suscripciones;Cata;max;149;Vivienda, mejoras y arreglos
+31/01/25;Ingreso;Itaú debito pesos;Sueldo;Cata;Sueldo;72212;Ingreso
+31/01/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;275;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;163;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;190;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;242;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Celular;Cata;Celular;567;Vivienda, mejoras y arreglos
+31/01/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;20;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Equipamiento;Cata;recibidor y espejo victoriana;25745;Vivienda, mejoras y arreglos
+31/01/25;Ingreso;Itaú debito pesos;Otro;Cata;bono;2335;Ingreso
+31/01/25;Ingreso;Itaú debito pesos;Otro;Cata;bono;9853;Ingreso
+31/01/25;Gasto;Itaú debito pesos;Equipamiento;Cata;escritorio;3781;Vivienda, mejoras y arreglos
+31/01/25;Gasto;Itaú debito pesos;Programa;Cata;bizcochos pinar;407;Programas
+31/01/25;Gasto;Itaú debito pesos;Equipamiento;Cata;canasto maceta planta;690;Vivienda, mejoras y arreglos
+31/01/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;120;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Programa;Cata;cena banis en casa - risotto;1762;Programas
+31/01/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;150;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Amigos;Cata;croquetas after;350;Programas
+31/01/25;Gasto;Itaú debito pesos;Salud;Cata;remeedios llagas;535;Salud y gastos médicos
+31/01/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;205;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;207;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Programa;Cata;Helado los abuelos;520;Programas
+31/01/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;843;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Auto;Cata;patente;19737;Transporte, locomoción y vehículos
+31/01/25;Gasto;Itaú debito pesos;Auto;Cata;lavado;570;Transporte, locomoción y vehículos
+31/01/25;Gasto;Itaú debito pesos;Luz;Cata;Luz;1166;Vivienda, mejoras y arreglos
+31/01/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;1017;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Regalos;Cata;regalo jdl;212;Regalos y Donaciones
+31/01/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;142;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;58;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Internet;Cata;Internet;666;Vivienda, mejoras y arreglos
+31/01/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;195;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;97;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Equipamiento;Cata;aparador sena;16450;Vivienda, mejoras y arreglos
+31/01/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;285;Alimentación y Limpieza
+31/01/25;Gasto;Itaú debito pesos;Amigos;Cata;cafe eli pame;316;Programas
+31/01/25;Gasto;Itaú debito pesos;Amigos;Cata;atrevida pau eli;540;Programas
+01/01/25;Gasto;Itaú debito pesos;Otros;Cata;libro 2 romper el circulo;775;Otros
+01/01/25;Gasto;Itaú debito pesos;Programa;Cata;helado arlecchino;440;Programas
+31/01/25;Gasto;Efectivo $;Otros;Santi;Otros;300;Otros
+31/01/25;Gasto;Santander;Salud;Santi;Salud;555,95;Salud y gastos médicos
+31/01/25;Gasto;Santander;Equipamiento;Santi;Equipamiento;612;Vivienda, mejoras y arreglos
+31/01/25;Gasto;Efectivo $;Equipamiento;Santi;Equipamiento;700;Vivienda, mejoras y arreglos
+31/01/25;Gasto;Efectivo $;Super casa;Santi;Super casa;200;Alimentación y Limpieza
+31/01/25;Gasto;Itaú;Amigos;Santi;Amigos;243;Programas
+31/01/25;Gasto;Itaú;Amigos;Santi;Amigos;910;Programas
+31/01/25;Gasto;Itaú;Programa;Santi;Comidas;1265,05;Programas
+31/01/25;Gasto;Itaú;Super casa;Santi;Super casa;122,73;Alimentación y Limpieza
+31/01/25;Gasto;Itaú;Combustible;Santi;Combustible;2017,8;Transporte, locomoción y vehículos
+31/01/25;Gasto;Itaú;Super casa;Santi;Super casa;449,1;Alimentación y Limpieza
+31/01/25;Gasto;Itaú;Amigos;Santi;Amigos;220;Programas
+31/01/25;Gasto;Itaú;Comidas;Santi;Comidas;590,48;Alimentación y Limpieza
+31/01/25;Gasto;Itaú;Gastos Comunes;Santi;Gastos Comunes;18,76;Vivienda, mejoras y arreglos
+31/01/25;Gasto;Itaú;Gastos Comunes;Santi;Gastos Comunes;7828;Vivienda, mejoras y arreglos
+31/01/25;Gasto;Itaú;Vestimenta;Santi;Vestimenta;314,74;Vestimenta
+31/01/25;Gasto;Itaú;Alquiler;Santi;Alquiler;33000;Vivienda, mejoras y arreglos
+03/01/25;Gasto;Santander;Comidas;Santi;Comidas;336;Alimentación y Limpieza
+03/01/25;Gasto;Santander;Vestimenta;Santi;Vestimenta;1162,13;Vestimenta
+03/01/25;Transferencia;Santander;;Santi;Desde Transferencias Cata;7000;Transferencia
+03/01/25;Transferencia;Transferencias Cata;;Santi;Hacia Santander;7000;Transferencia
+02/01/25;Ingreso;Itaú;Sueldo;Santi;Sueldo;97422,7;Ingreso
+03/01/25;Transferencia;Itaú;;Santi;Desde Efectivo $;5722;Transferencia
+03/01/25;Transferencia;Santander;;Santi;Hacia Itaú;5722;Transferencia
+27/02/25;Transferencia;Itau credito;;Cata;Desde Itaú debito pesos;4893;Transferencia
+27/02/25;Transferencia;Itaú debito pesos;;Cata;pago tarjeta credito [hacia Itau credito];4893;Transferencia
+01/02/25;Gasto;Itau credito;Banco;Cata;Banco;18,65;Banco
+01/02/25;Gasto;Itau credito;Combustible;Cata;Combustible;2450;Transporte, locomoción y vehículos
+01/02/25;Gasto;Itau credito;Programa;Cata;almuerzo atrevida santi;1676;Programas
+01/02/25;Gasto;Itau credito;Auto;Cata;teleeaje punta x4;600;Transporte, locomoción y vehículos
+01/02/25;Gasto;Itau credito;Suscripciones;Cata;hbo;149;Vivienda, mejoras y arreglos
+10/02/25;Transferencia;Itaú debito pesos;;Cata;cambio dls [hacia Itau Dolares];100000;Transferencia
+18/02/25;Transferencia;Santi;;Cata;Desde Itaú debito pesos;40000;Transferencia
+18/02/25;Transferencia;Itaú debito pesos;;Cata;cambio a dls a pol [hacia Santi];40000;Transferencia
+10/02/25;Transferencia;Santi;;Cata;Desde Itaú debito pesos;5000;Transferencia
+10/02/25;Transferencia;Itaú debito pesos;;Cata;giro a santi para tarjeta santander indian [hacia;5000;Transferencia
+18/02/25;Gasto;Itaú debito pesos;Amigos;Cata;recibimiento fede - uber mio y paude;734;Programas
+18/02/25;Gasto;Itaú debito pesos;Otros;Cata;regalo tefa - deudas que nadei me pago;372;Otros
+18/02/25;Ingreso;Itaú debito pesos;Sueldo;Cata;Sueldo;87302;Ingreso
+18/02/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;119;Alimentación y Limpieza
+18/02/25;Gasto;Itaú debito pesos;Equipamiento;Cata;rack tv 50% + envio;6200;Vivienda, mejoras y arreglos
+18/02/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;427;Alimentación y Limpieza
+18/02/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;1056;Alimentación y Limpieza
+18/02/25;Gasto;Itaú debito pesos;Salud;Cata;eco rodilla;2800;Salud y gastos médicos
+18/02/25;Gasto;Itaú debito pesos;Gym;Cata;Boxeo;1670;Deporte
+18/02/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;141;Alimentación y Limpieza
+18/02/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;64;Alimentación y Limpieza
+18/02/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;303;Alimentación y Limpieza
+18/02/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;288;Alimentación y Limpieza
+18/02/25;Gasto;Itaú debito pesos;Amigos;Cata;cena tefa;470;Programas
+18/02/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;1149;Alimentación y Limpieza
+18/02/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;198;Alimentación y Limpieza
+18/02/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;280;Alimentación y Limpieza
+18/02/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;167;Alimentación y Limpieza
+05/02/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;441;Alimentación y Limpieza
+05/02/25;Gasto;Itaú debito pesos;Regalos;Cata;amelia y gero carters;2980;Regalos y Donaciones
+05/02/25;Gasto;Itaú debito pesos;Luz;Cata;Luz;1849;Vivienda, mejoras y arreglos
+05/02/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;400;Alimentación y Limpieza
+05/02/25;Gasto;Itaú debito pesos;Equipamiento;Cata;rack tele 50%;5500;Vivienda, mejoras y arreglos
+05/02/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;144;Alimentación y Limpieza
+05/02/25;Gasto;Itaú debito pesos;Programa;Cata;cena corkys casa tarta;1035;Programas
+05/02/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;318;Alimentación y Limpieza
+05/02/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;318;Alimentación y Limpieza
+05/02/25;Gasto;Itaú debito pesos;Regalos;Cata;juego de mesa juana;760;Regalos y Donaciones
+05/02/25;Gasto;Itaú debito pesos;Super casa;Cata;el escorial;798;Alimentación y Limpieza
+05/02/25;Gasto;Itaú debito pesos;Equipamiento;Cata;ganchos china market;69;Vivienda, mejoras y arreglos
+05/02/25;Gasto;Itaú debito pesos;Programa;Cata;helado con juana;290;Programas
+05/02/25;Gasto;Itaú debito pesos;Super casa;Cata;verduleria paso;709;Alimentación y Limpieza
+05/02/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;189;Alimentación y Limpieza
+05/02/25;Gasto;Itaú debito pesos;Regalos;Cata;tefa despedida ccc;475;Regalos y Donaciones
+05/02/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;200;Alimentación y Limpieza
+05/02/25;Gasto;Itaú debito pesos;Internet;Cata;Internet;475;Vivienda, mejoras y arreglos
+05/02/25;Gasto;Itaú debito pesos;Equipamiento;Cata;aparador 50%;16450;Vivienda, mejoras y arreglos
+28/02/25;Transferencia;Itaú;;Santi;Hacia General dolares;60000;Transferencia
+27/02/25;Transferencia;Itaú;;Santi;Desde Transferencias Cata;40000;Transferencia
+27/02/25;Transferencia;Transferencias Cata;;Santi;Hacia Itaú;40000;Transferencia
+28/02/25;Ingreso;Itaú;Licencia;Santi;Licencia;47622;Ingreso
+27/02/25;Ingreso;Itaú;Sueldo;Santi;Sueldo;88782,09;Ingreso
+28/02/25;Gasto;Itaú;Banco;Santi;Banco;45;Banco
+25/02/25;Gasto;Santander;Vestimenta;Santi;Vestimenta;1000;Vestimenta
+25/02/25;Ingreso;Efectivo $;Otro;Santi;Otro;4000;Ingreso
+25/02/25;Gasto;Efectivo $;Otros;Santi;Otros;100;Otros
+25/02/25;Gasto;Efectivo $;Regalos;Santi;Regalos;200;Regalos y Donaciones
+25/02/25;Gasto;Santander;Comidas;Santi;Comidas;947,35;Alimentación y Limpieza
+25/02/25;Gasto;Santander;Equipamiento;Santi;o;1620,33;Vivienda, mejoras y arreglos
+25/02/25;Transferencia;Santander;;Santi;Desde Transferencias Cata;5225;Transferencia
+25/02/25;Transferencia;Transferencias Cata;;Santi;Hacia Santander;5225;Transferencia
+25/02/25;Transferencia;Itaú;;Santi;Hacia General dolares;130000;Transferencia
+25/02/25;Transferencia;Itaú;;Santi;Hacia General dolares;150000;Transferencia
+25/02/25;Gasto;Itaú;Gastos Comunes;Santi;Gastos Comunes;6258;Vivienda, mejoras y arreglos
+25/02/25;Gasto;Itaú;Banco;Santi;Banco;45;Banco
+25/02/25;Gasto;Itaú;OCC;Santi;OCC;2359,68;Deporte
+25/02/25;Gasto;Itaú;Amigos;Santi;Amigos;813,36;Programas
+25/02/25;Gasto;Itaú;Amigos;Santi;Amigos;720;Programas
+25/02/25;Gasto;Itaú;OCC;Santi;OCC;5450;Deporte
+25/02/25;Gasto;Itaú;Amigos;Santi;Amigos;1470;Programas
+25/02/25;Gasto;Itaú;Combustible;Santi;Combustible;2232;Transporte, locomoción y vehículos
+25/02/25;Gasto;Itaú;Alquiler;Santi;Alquiler;33000;Vivienda, mejoras y arreglos
+02/02/25;Ingreso;Itaú;Sueldo;Santi;Sueldo;88782,09;Ingreso
+12/03/25;Transferencia;Itaú;;Santi;Hacia General dolares;100000;Transferencia
+26/03/25;Gasto;Efectivo $;Auto;Santi;Auto;300;Transporte, locomoción y vehículos
+26/03/25;Gasto;Efectivo $;Combustible;Santi;Combustible;2000;Transporte, locomoción y vehículos
+26/03/25;Gasto;Santander;Comidas;Santi;Comidas;2237,77;Alimentación y Limpieza
+26/03/25;Gasto;Santander;Salud;Santi;Salud;348,79;Salud y gastos médicos
+26/03/25;Gasto;Itaú;SantiagoCasaretto SAS;Santi;SantiagoCasaretto SAS;2530;Gastos Laborales
+26/03/25;Ingreso;Itaú;Sueldo;Santi;Sueldo;187875;Ingreso
+26/03/25;Gasto;Itaú;OCC;Santi;OCC;134,75;Deporte
+26/03/25;Gasto;Itaú;OCC;Santi;OCC;527,96;Deporte
+26/03/25;Gasto;Itaú;Amigos;Santi;Amigos;222;Programas
+26/03/25;Gasto;Itaú;Transporte;Santi;Transporte;151;Transporte, locomoción y vehículos
+26/03/25;Gasto;Itaú;Super casa;Santi;Super casa;456,1;Alimentación y Limpieza
+26/03/25;Gasto;Itaú;SantiagoCasaretto SAS;Santi;facturacion electronica;4892;Gastos Laborales
+26/03/25;Gasto;Itaú;OCC;Santi;OCC;537,22;Deporte
+26/03/25;Gasto;Itaú;Banco;Santi;Banco;45;Banco
+26/03/25;Gasto;Itaú;Amigos;Santi;Amigos;863;Programas
+26/03/25;Gasto;Itaú;Gastos Comunes;Santi;Gastos Comunes;7971;Vivienda, mejoras y arreglos
+26/03/25;Gasto;Itaú;SantiagoCasaretto SAS;Santi;SantiagoCasaretto SAS;349,21;Gastos Laborales
+26/03/25;Gasto;Itaú;OCC;Santi;OCC;550;Deporte
+26/03/25;Gasto;Itaú;Alquiler;Santi;Alquiler;33000;Vivienda, mejoras y arreglos
+03/03/25;Gasto;Itaú;OCC;Santi;OCC;463,12;Deporte
+30/03/25;Transferencia;Itau credito;;Cata;pago credito [desde Itaú debito pesos];16510,33;Transferencia
+30/03/25;Transferencia;Itaú debito pesos;;Cata;pago credito [hacia Itau credito];16510,33;Transferencia
+05/03/25;Gasto;Itau credito;Banco;Cata;Banco;20,68;Banco
+05/03/25;Gasto;Itau credito;Equipamiento;Cata;respaldo de cama;5928;Vivienda, mejoras y arreglos
+05/03/25;Gasto;Itau credito;Super casa;Cata;Super casa;7662;Alimentación y Limpieza
+05/03/25;Gasto;Itau credito;Combustible;Cata;Combustible;2150;Transporte, locomoción y vehículos
+05/03/25;Gasto;Itau credito;Auto;Cata;telepeaje pde;600;Transporte, locomoción y vehículos
+05/03/25;Gasto;Itau credito;Suscripciones;Cata;Suscripciones;149;Vivienda, mejoras y arreglos
+31/03/25;Gasto;Itaú debito pesos;Amigos;Cata;pizzarrita banki;700;Programas
+28/03/25;Gasto;Itaú debito pesos;Amigos;Cata;babyshower tefa;840;Programas
+28/03/25;Gasto;Itaú debito pesos;Amigos;Cata;baby shower eli;1187;Programas
+31/03/25;Transferencia;Santi;;Cata;Desde Itaú debito pesos;10000;Transferencia
+31/03/25;Transferencia;Itaú debito pesos;;Cata;Hacia Santi;10000;Transferencia
+28/03/25;Gasto;Itaú debito pesos;Vestimenta;Cata;pantalon marron;1000;Vestimenta
+20/03/25;Transferencia;Santi;;Cata;Desde Itaú debito pesos;10000;Transferencia
+20/03/25;Transferencia;Itaú debito pesos;;Cata;Hacia Santi;10000;Transferencia
+28/03/25;Ingreso;Itaú debito pesos;Sueldo;Cata;Sueldo;87302;Ingreso
+12/03/25;Ingreso;Itaú debito pesos;Otro;Cata;bono;40320;Ingreso
+12/03/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;181;Alimentación y Limpieza
+12/03/25;Gasto;Itaú debito pesos;Equipamiento;Cata;sodimac cables;485;Vivienda, mejoras y arreglos
+12/03/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;117;Alimentación y Limpieza
+12/03/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;224;Alimentación y Limpieza
+12/03/25;Gasto;Itaú debito pesos;Equipamiento;Cata;flores;500;Vivienda, mejoras y arreglos
+12/03/25;Gasto;Itaú debito pesos;Amigos;Cata;cena tefa;278;Programas
+12/03/25;Gasto;Itaú debito pesos;Amigos;Cata;asado wata;1415;Programas
+12/03/25;Gasto;Itaú debito pesos;Amigos;Cata;obra con loli;170;Programas
+12/03/25;Gasto;Itaú debito pesos;Amigos;Cata;brunch pia eli selva;1145;Programas
+12/03/25;Gasto;Itaú debito pesos;Vestimenta;Cata;bombachas renner;399;Vestimenta
+12/03/25;Gasto;Itaú debito pesos;Belleza;Cata;manos om;1100;Vestimenta
+12/03/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;438;Alimentación y Limpieza
+12/03/25;Gasto;Itaú debito pesos;Gym;Cata;Gym;2400;Deporte
+12/03/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;422;Alimentación y Limpieza
+12/03/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;593;Alimentación y Limpieza
+12/03/25;Gasto;Itaú debito pesos;Otros;Cata;Otros;210;Otros
+12/03/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;212;Alimentación y Limpieza
+12/03/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;117;Alimentación y Limpieza
+01/03/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;295;Alimentación y Limpieza
+01/03/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;312;Alimentación y Limpieza
+01/03/25;Gasto;Itaú debito pesos;Luz;Cata;Luz;1969;Vivienda, mejoras y arreglos
+01/03/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;95;Alimentación y Limpieza
+01/03/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;326;Alimentación y Limpieza
+01/03/25;Gasto;Itaú debito pesos;Regalos;Cata;gero foto;200;Regalos y Donaciones
+01/03/25;Gasto;Itaú debito pesos;Otros;Cata;Otros;179;Otros
+01/03/25;Gasto;Itaú debito pesos;Celular;Cata;Celular;567;Vivienda, mejoras y arreglos
+01/03/25;Gasto;Itaú debito pesos;Internet;Cata;Internet;727;Vivienda, mejoras y arreglos
+01/03/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;597;Alimentación y Limpieza
+01/03/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;166;Alimentación y Limpieza
+01/03/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;861;Alimentación y Limpieza
+01/03/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;126;Alimentación y Limpieza
+01/03/25;Gasto;Itaú debito pesos;Amigos;Cata;cena jime  pau burgers;454;Programas
+01/03/25;Gasto;Itaú debito pesos;Equipamiento;Cata;florero, velas marco;806;Vivienda, mejoras y arreglos
+01/03/25;Gasto;Itaú debito pesos;Regalos;Cata;jj y gero enterito;1021;Regalos y Donaciones
+30/04/25;Transferencia;Itaú debito pesos;;Cata;Desde Itau Dolares;468;Transferencia
+30/04/25;Transferencia;Itau credito;;Cata;Desde Itaú debito pesos;18248;Transferencia
+30/04/25;Transferencia;Itaú debito pesos;;Cata;pago credito [hacia Itau credito];18248;Transferencia
+30/04/25;Gasto;Itau credito;Banco;Cata;tarjeta credito;58;Banco
+30/04/25;Gasto;Itau credito;Otros;Cata;estacionamiento hb;300;Otros
+30/04/25;Gasto;Itau credito;Salud;Cata;Salud remedios fs;282;Salud y gastos médicos
+30/04/25;Gasto;Itau credito;Super casa;Cata;Super casa;240;Alimentación y Limpieza
+30/04/25;Gasto;Itau credito;Auto;Cata;Seguro auto;17219;Transporte, locomoción y vehículos
+30/04/25;Gasto;Itau credito;Suscripciones;Cata;Suscripciones;149;Vivienda, mejoras y arreglos
+30/04/25;Ingreso;Itaú debito pesos;Sueldo;Cata;Sueldo;90373;Ingreso
+30/04/25;Gasto;Itaú debito pesos;Amigos;Cata;cafemfgirls2;398;Programas
+30/04/25;Gasto;Itaú debito pesos;Amigos;Cata;cafe mfgirls;329;Programas
+30/04/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;224;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;48;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;140;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Regalos;Cata;Regalos;238;Regalos y Donaciones
+30/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;170;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;395;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;1257;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;529;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;132;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;251;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Otros;Cata;Otros;178;Otros
+30/04/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;211;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;209;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Luz;Cata;Luz;2147;Vivienda, mejoras y arreglos
+30/04/25;Gasto;Itaú debito pesos;Regalos;Cata;cookies gf;792;Regalos y Donaciones
+30/04/25;Gasto;Itaú debito pesos;Vestimenta;Cata;Vestimenta;101;Vestimenta
+30/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;132;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Vestimenta;Cata;buzos;1998;Vestimenta
+30/04/25;Gasto;Itaú debito pesos;Amigos;Cata;cena ss y novias milanga y pasta;952;Programas
+30/04/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;754;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Regalos;Cata;Regalos;761;Regalos y Donaciones
+30/04/25;Gasto;Itaú debito pesos;Super casa;Cata;raviolones;525;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;375;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;220;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;36;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;200;Alimentación y Limpieza
+30/04/25;Gasto;Itaú debito pesos;Salud;Cata;dentista carie;4000;Salud y gastos médicos
+30/04/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;472;Alimentación y Limpieza
+05/04/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;180;Alimentación y Limpieza
+05/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;225;Alimentación y Limpieza
+07/04/25;Transferencia;Santi;;Cata;Desde Itaú debito pesos;130000;Transferencia
+07/04/25;Transferencia;Itaú debito pesos;;Cata;cambio dls [hacia Santi];130000;Transferencia
+05/04/25;Gasto;Itaú debito pesos;Internet;Cata;Internet;727;Vivienda, mejoras y arreglos
+05/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;220;Alimentación y Limpieza
+05/04/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;366;Alimentación y Limpieza
+02/04/25;Gasto;Itaú debito pesos;Amigos;Cata;cena carme caro vacu;1515;Programas
+01/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;80;Alimentación y Limpieza
+01/04/25;Gasto;Itaú debito pesos;Celular;Cata;Celular;567;Vivienda, mejoras y arreglos
+01/04/25;Gasto;Itaú debito pesos;Amigos;Cata;pasiva corkys;643;Programas
+01/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;259;Alimentación y Limpieza
+01/04/25;Gasto;Itaú debito pesos;Salud;Cata;dentista ona limpieza;3300;Salud y gastos médicos
+01/04/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;195;Alimentación y Limpieza
+09/04/25;Transferencia;Itaú;;Santi;Hacia General dolares;220000;Transferencia
+30/04/25;Gasto;Santander;Salud;Santi;Salud;466,52;Salud y gastos médicos
+30/04/25;Gasto;Itaú;Combustible;Santi;Combustible;2730,5;Transporte, locomoción y vehículos
+30/04/25;Gasto;Itaú;Super casa;Santi;Super casa;480,23;Alimentación y Limpieza
+30/04/25;Gasto;Itaú;Amigos;Santi;Amigos;330,67;Programas
+30/04/25;Gasto;Itaú;Amigos;Santi;Amigos;780;Programas
+30/04/25;Gasto;Itaú;Gastos Comunes;Santi;Gastos Comunes;8288;Vivienda, mejoras y arreglos
+30/04/25;Gasto;Itaú;Banco;Santi;Banco;45;Banco
+30/04/25;Gasto;Itaú;SantiagoCasaretto SAS;Santi;facturacion electronica;5039;Gastos Laborales
+30/04/25;Gasto;Itaú;Combustible;Santi;Combustible;2165,3;Transporte, locomoción y vehículos
+30/04/25;Gasto;Itaú;Amigos;Santi;Amigos;144,59;Programas
+30/04/25;Gasto;Itaú;SantiagoCasaretto SAS;Santi;Abitab;17,63;Gastos Laborales
+30/04/25;Gasto;Itaú;SantiagoCasaretto SAS;Santi;BPS;5902;Gastos Laborales
+30/04/25;Gasto;Itaú;Amigos;Santi;Amigos;250;Programas
+30/04/25;Gasto;Itaú;OCC;Santi;OCC;629,84;Deporte
+30/04/25;Gasto;Itaú;Amigos;Santi;Amigos;790;Programas
+30/04/25;Gasto;Itaú;Amigos;Santi;Amigos;590,48;Programas
+30/04/25;Gasto;Itaú;Alquiler;Santi;Alquiler;33000;Vivienda, mejoras y arreglos
+30/04/25;Gasto;Itaú;Amigos;Santi;Amigos;225;Programas
+30/04/25;Gasto;Itaú;Combustible;Santi;Combustible;2266;Transporte, locomoción y vehículos
+02/04/25;Transferencia;Santander;;Santi;Desde Transferencias Cata;10000;Transferencia
+02/04/25;Transferencia;Transferencias Cata;;Santi;Hacia Santander;10000;Transferencia
+02/04/25;Transferencia;Itaú;;Santi;Desde Santander;5500;Transferencia
+02/04/25;Transferencia;Santander;;Santi;Hacia Itaú;5500;Transferencia
+02/04/25;Transferencia;Itaú;;Santi;Desde Transferencias Cata;10000;Transferencia
+02/04/25;Transferencia;Transferencias Cata;;Santi;Hacia Itaú;10000;Transferencia
+28/05/25;Transferencia;Inversiones $;;Santi;Hacia General dolares;19000;Transferencia
+28/05/25;Gasto;Itaú;OCC;Santi;OCC;390;Deporte
+28/05/25;Gasto;Itaú;Comidas;Santi;Comidas;659;Alimentación y Limpieza
+28/05/25;Gasto;Itaú;SantiagoCasaretto SAS;Santi;SantiagoCasaretto SAS;9974;Gastos Laborales
+28/05/25;Gasto;Itaú;Gastos Comunes;Santi;Gastos Comunes;8122;Vivienda, mejoras y arreglos
+28/05/25;Gasto;Itaú;Amigos;Santi;Amigos;737;Programas
+28/05/25;Transferencia;Itaú;;Santi;Desde Transferencias Cata;30000;Transferencia
+28/05/25;Transferencia;Transferencias Cata;;Santi;Hacia Itaú;30000;Transferencia
+28/05/25;Gasto;Itaú;Amigos;Santi;Amigos;2392,75;Programas
+28/05/25;Gasto;Itaú;SantiagoCasaretto SAS;Santi;SantiagoCasaretto SAS;10800;Gastos Laborales
+28/05/25;Gasto;Itaú;Alquiler;Santi;Alquiler;33000;Vivienda, mejoras y arreglos
+28/05/25;Gasto;Itaú;OCC;Santi;OCC;6000;Deporte
+28/05/25;Gasto;Itaú;Programa;Santi;Programa;1313,57;Programas
+28/05/25;Gasto;Itaú;Equipamiento;Santi;Equipamiento;390;Vivienda, mejoras y arreglos
+28/05/25;Gasto;Itaú;Programa;Santi;Programa;185,25;Programas
+28/05/25;Gasto;Santander;OCC;Santi;OCC;435,33;Deporte
+28/05/25;Ingreso;Santander;Otro;Santi;Otro;1244,1;Ingreso
+28/05/25;Gasto;Santander;Salud;Santi;Salud;403,28;Salud y gastos médicos
+28/05/25;Gasto;Efectivo $;Otros;Santi;Otros;150;Otros
+28/05/25;Gasto;Efectivo $;Transporte;Santi;Transporte;50;Transporte, locomoción y vehículos
+28/05/25;Transferencia;Transferencias Cata;;Santi;Desde Efectivo $;750;Transferencia
+28/05/25;Transferencia;Efectivo $;;Santi;Hacia Transferencias Cata;750;Transferencia
+01/05/25;Transferencia;Itaú;;Santi;Desde Transferencias Cata;130000;Transferencia
+01/05/25;Transferencia;Transferencias Cata;;Santi;Hacia Itaú;130000;Transferencia
+02/05/25;Gasto;Itau credito;Banco;Cata;Banco;107,8;Banco
+02/05/25;Gasto;Itau credito;Combustible;Cata;Combustible;2180;Transporte, locomoción y vehículos
+02/05/25;Gasto;Itau credito;Combustible;Cata;Combustible;2241,5;Transporte, locomoción y vehículos
+02/05/25;Gasto;Itau credito;Super casa;Cata;Super casa;8915;Alimentación y Limpieza
+02/05/25;Gasto;Itau credito;Vestimenta;Cata;Vestimenta;1520,23;Vestimenta
+02/05/25;Gasto;Itau credito;Comidas;Cata;Comidas;262,5;Alimentación y Limpieza
+02/05/25;Gasto;Itau credito;Auto;Cata;Seguro auto;17218;Transporte, locomoción y vehículos
+02/05/25;Gasto;Itaú debito pesos;Regalos;Cata;Regalos;221;Regalos y Donaciones
+02/05/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;381;Alimentación y Limpieza
+03/05/25;Transferencia;Itaú debito pesos;;Cata;Desde Santi;759;Transferencia
+03/05/25;Transferencia;Santi;;Cata;Hacia Itaú debito pesos;759;Transferencia
+03/05/25;Transferencia;Santi;;Cata;Desde Itaú debito pesos;30000;Transferencia
+03/05/25;Transferencia;Itaú debito pesos;;Cata;Hacia Santi;30000;Transferencia
+02/05/25;Gasto;Itaú debito pesos;Transporte;Cata;uber casorio jimes;1400;Transporte, locomoción y vehículos
+02/05/25;Ingreso;Itaú debito pesos;Sueldo;Cata;Sueldo;90373;Ingreso
+02/05/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;230;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;191;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Celular;Cata;Celular;567;Vivienda, mejoras y arreglos
+02/05/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;187;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;400;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;422;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;233;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;1649;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Amigos;Cata;Amigos;588;Programas
+02/05/25;Gasto;Itaú debito pesos;Amigos;Cata;Amigos;242;Programas
+02/05/25;Gasto;Itaú debito pesos;Otros;Cata;Otros-mosca;227;Otros
+02/05/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;220;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;169;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;551;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Equipamiento;Cata;Equipamiento;1540;Vivienda, mejoras y arreglos
+02/05/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;282;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Equipamiento;Cata;lampara negra;1549;Vivienda, mejoras y arreglos
+02/05/25;Gasto;Itaú debito pesos;Luz;Cata;Luz;2125;Vivienda, mejoras y arreglos
+02/05/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;180;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;214;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;391;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;1900;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Regalos;Cata;Regalos;440;Regalos y Donaciones
+02/05/25;Gasto;Itaú debito pesos;Vestimenta;Cata;Vestido casorio carme . senia vale;1500;Vestimenta
+02/05/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;168;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;513;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Equipamiento;Cata;mesa ratona;4500;Vivienda, mejoras y arreglos
+02/05/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;544;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Gym;Cata;Gym;3200;Deporte
+02/05/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;284;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;90;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;226;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;830;Alimentación y Limpieza
+02/05/25;Gasto;Itaú debito pesos;Internet;Cata;Internet;227;Vivienda, mejoras y arreglos
+02/05/25;Gasto;Itaú debito pesos;Programa;Cata;medialunas;420;Programas
+02/05/25;Gasto;Itaú debito pesos;Celular;Cata;Celular;558;Vivienda, mejoras y arreglos
+30/06/25;Gasto;Santander;Otros;Santi;Otros;1166,89;Otros
+30/06/25;Gasto;Santander;Salud;Santi;Salud;786,64;Salud y gastos médicos
+30/06/25;Gasto;Santander;Salud;Santi;Salud;972,89;Salud y gastos médicos
+30/06/25;Gasto;Itaú;Amigos;Santi;Amigos;582,6;Programas
+30/06/25;Gasto;Itaú;Amigos;Santi;Amigos;230;Programas
+30/06/25;Gasto;Itaú;Comidas;Santi;Comidas;535;Alimentación y Limpieza
+30/06/25;Gasto;Itaú;Amigos;Santi;Amigos;130;Programas
+30/06/25;Gasto;Itaú;OCC;Santi;OCC;620,59;Deporte
+30/06/25;Gasto;Itaú;Amigos;Santi;Amigos;832;Programas
+30/06/25;Gasto;Itaú;Equipamiento;Santi;Equipamiento;420,98;Vivienda, mejoras y arreglos
+30/06/25;Gasto;Itaú;SantiagoCasaretto SAS;Santi;SantiagoCasaretto SAS;9974;Gastos Laborales
+30/06/25;Gasto;Itaú;Gastos Comunes;Santi;Gastos Comunes;7990;Vivienda, mejoras y arreglos
+30/06/25;Gasto;Itaú;Banco;Santi;Banco;45;Banco
+30/06/25;Gasto;Itaú;Super casa;Santi;Super casa;74,76;Alimentación y Limpieza
+30/06/25;Gasto;Itaú;Transporte;Santi;Transporte;285,25;Transporte, locomoción y vehículos
+30/06/25;Gasto;Itaú;OCC;Santi;OCC;111,15;Deporte
+30/06/25;Gasto;Itaú;Amigos;Santi;Amigos;417;Programas
+30/06/25;Gasto;Itaú;Comidas;Santi;Comidas;718,36;Alimentación y Limpieza
+30/06/25;Gasto;Itaú;Amigos;Santi;Amigos;650;Programas
+30/06/25;Gasto;Itaú;Super casa;Santi;Super casa;489,24;Alimentación y Limpieza
+30/06/25;Gasto;Itaú;Amigos;Santi;Amigos;314,92;Programas
+30/06/25;Gasto;Itaú;Alquiler;Santi;Alquiler;33000;Vivienda, mejoras y arreglos
+30/06/25;Gasto;Itaú;Amigos;Santi;Amigos;710;Programas
+30/06/25;Gasto;Itaú;Equipamiento;Santi;Equipamiento;176,06;Vivienda, mejoras y arreglos
+30/06/25;Gasto;Itaú debito pesos;Otros;Cata;AJUSTE JUNIO;1926,3;Otros
+03/06/25;Gasto;Itau credito;Banco;Cata;Banco;65,98;Banco
+03/06/25;Gasto;Itau credito;Super casa;Cata;Super casa;456;Alimentación y Limpieza
+03/06/25;Gasto;Itau credito;Super casa;Cata;Super casa;9281;Alimentación y Limpieza
+03/06/25;Gasto;Itau credito;Combustible;Cata;Combustible;2350;Transporte, locomoción y vehículos
+03/06/25;Gasto;Itau credito;Regalos;Cata;monitor;4648,85;Regalos y Donaciones
+03/06/25;Gasto;Itau credito;Vacaciones;Cata;bqb santi;4364,19;Vacaciones
+03/06/25;Gasto;Itau credito;Suscripciones;Cata;hbo;149;Vivienda, mejoras y arreglos
+29/06/25;Transferencia;Efectivo $;;Cata;Desde Itaú debito pesos;500;Transferencia
+29/06/25;Transferencia;Itaú debito pesos;;Cata;Hacia Efectivo $;500;Transferencia
+29/06/25;Transferencia;Santi;;Cata;Desde Itaú debito pesos;40000;Transferencia
+29/06/25;Transferencia;Itaú debito pesos;;Cata;Hacia Santi;40000;Transferencia
+29/06/25;Gasto;Itaú debito pesos;Comidas;Cata;desayuno ccc;780;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Vestimenta;Cata;camisas geant;1347;Vestimenta
+29/06/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;160;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Gym;Cata;box mayo y junio;4800;Deporte
+29/06/25;Gasto;Itaú debito pesos;Belleza;Cata;peluqueria hidro;3500;Vestimenta
+29/06/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;993;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;650;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Comidas;Cata;pizarro;1330;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;495;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;354;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;236;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Comidas;Cata;mc flurry;257;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Equipamiento;Cata;alfombra;4700;Vivienda, mejoras y arreglos
+29/06/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;109;Alimentación y Limpieza
+29/06/25;Transferencia;Santi;;Cata;Desde Itaú debito pesos;35000;Transferencia
+29/06/25;Transferencia;Itaú debito pesos;;Cata;Hacia Santi;35000;Transferencia
+29/06/25;Gasto;Itaú debito pesos;Vestimenta;Cata;Vestimenta;1300;Vestimenta
+29/06/25;Gasto;Itaú debito pesos;Amigos;Cata;bizcochos facu;465;Programas
+29/06/25;Gasto;Itaú debito pesos;Comidas;Cata;pizarro;680;Alimentación y Limpieza
+29/06/25;Ingreso;Itaú debito pesos;Aguinaldo;Cata;Aguinaldo;61007;Ingreso
+29/06/25;Gasto;Itaú debito pesos;Luz;Cata;Luz;2353;Vivienda, mejoras y arreglos
+29/06/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;321;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;200;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;260;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;558;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Programa;Cata;cena maria frioni;1270;Programas
+29/06/25;Gasto;Itaú debito pesos;Programa;Cata;Programa;980;Programas
+29/06/25;Gasto;Itaú debito pesos;Amigos;Cata;Amigos;195;Programas
+29/06/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;200;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Internet;Cata;Internet;977;Vivienda, mejoras y arreglos
+29/06/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;226;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Amigos;Cata;te micas;341;Programas
+29/06/25;Gasto;Itaú debito pesos;Amigos;Cata;te tefa;100;Programas
+29/06/25;Gasto;Itaú debito pesos;Comidas;Cata;Comidas;96;Alimentación y Limpieza
+29/06/25;Gasto;Itaú debito pesos;Programa;Cata;pizzas achu;1000;Programas
+02/06/25;Gasto;Itaú debito pesos;Equipamiento;Cata;mesa ratona;5800;Vivienda, mejoras y arreglos
+02/06/25;Gasto;Itaú debito pesos;Super casa;Cata;Super casa;2378;Alimentación y Limpieza
+02/06/25;Gasto;Itaú debito pesos;Auto;Cata;bateria;5700;Transporte, locomoción y vehículos
+02/06/25;Gasto;Itaú debito pesos;Transporte;Cata;uber ccc;251;Transporte, locomoción y vehículos
